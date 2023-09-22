@@ -8,8 +8,8 @@
 
 <br />
 <div align="center">
-  <a href="https://github.com/AndersonFillho/conversor-de-unidades">
-    <img src="img/logo1.png" alt="Logo" height="350">
+  <a href="https://github.com/AndersonFillho/relogio_digital">
+    <img src="img/logo.png" alt="Logo" height="350">
   </a>
 
   <h3 align="center">Digital watch JS</h3>
@@ -17,12 +17,12 @@
   <p align="center">
     Applying the acquired knowledge with a project.
     <br />
-    <a href="https://github.com/AndersonFillho/conversor-de-unidades"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/AndersonFillho/relogio_digital"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/AndersonFillho/conversor-de-unidades/issues">Report Bug</a>
+    <a href="https://github.com/AndersonFillho/relogio_digital/issues">Report Bug</a>
     ·
-    <a href="https://github.com/AndersonFillho/conversor-de-unidades/pulls">Request Feature</a>
+    <a href="https://github.com/AndersonFillho/relogio_digital/pulls">Request Feature</a>
   </p>
 </div>
 
@@ -59,7 +59,6 @@
 <br />
 <br />
     <img src="img/demo.png" alt="demo1 app">
-    <img src="img/demo1.png" alt="demo2 app">
 </a>
 <br />
 <br />
@@ -95,7 +94,7 @@ To get a local copy up and running follow these simple steps.
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/AndersonFillho/conversor-de-unidades.git
+   git clone https://github.com/AndersonFillho/relogio_digital
    ```
 2. Install NPM packages
    ```sh
@@ -114,7 +113,7 @@ To get a local copy up and running follow these simple steps.
 - [x] events
      
 
-See the [open issues](https://github.com/AndersonFillho/conversor-de-unidades/blob/master/README.md) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/AndersonFillho/relogio_digital/blob/master/README.md) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -142,6 +141,6 @@ Don't forget to give the project a star! Thanks again!
 
 Anderson Ferreira - [Linkedin](https://www.linkedin.com/in/anderson-ferreira-35349018b/) - anderson12job@gmail.com
 
-Project Link: [Creating a JavaScript stopwatch project](https://github.com/AndersonFillho/conversor-de-unidades)
+Project Link: [Creating a JavaScript Digital watch project](https://github.com/AndersonFillho/relogio_digital)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
